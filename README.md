@@ -44,4 +44,4 @@
   
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3>“Mova-se rapidamente e cause impacto. Se você não está causando impacto, significa que você não está se movendo rápido o suficiente.”</h3>
+<h3>“Mova-se rapidamente e cause impacto. Se você não está causando impacto, significa que você não está se movendo rápido o suficiente.” Mark Zuckerberg</h3>
