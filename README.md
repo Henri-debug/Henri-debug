@@ -1,4 +1,4 @@
-<h1 align="center"> Olá, sou o Henrique</h1>
+<h1 align="center"> Olá :wave:, sou o Henrique</h1>
 
 <h3 align="center">Desenvolvedor Web e Desktop Java</h3>
 <h3 align="center">Atualmente estudante de Ciencias da Computação pelo Instituto Federal de São Paulo</h3>
@@ -42,3 +42,4 @@
 ### OneUx is the future © 2021
 <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.gg/CWbYUZMpdj)
 
+<h3>“Mova-se rapidamente e cause impacto. Se você não está causando impacto, significa que você não está se movendo rápido o suficiente.”</h3>
