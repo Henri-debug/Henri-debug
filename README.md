@@ -4,6 +4,12 @@
 <h3 align="center">Atualmente estudante de Ciencias da Computação pelo Instituto Federal de São Paulo</h3>
 
 
+### Interesses 
+
+- IA(Inteligencia Artificial)
+- Redes Neurais
+
+
 ### :fire: Hard Skills
 
 - Linguagens
@@ -11,8 +17,10 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
 
+
 - Aprendendo 
 
+![Python](https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=ffffff)
 
 ### :four_leaf_clover: Soft Skills
