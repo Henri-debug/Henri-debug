@@ -1,6 +1,6 @@
 <h1 align="center"> Olá :wave:, sou o Henrique</h1>
 
-<h3 align="center">Desenvolvedor Web e Desktop Java</h3>
+<h3 align="center">Interessado por Inteligencia Artifical e Redes</h3>
 <h3 align="center">Atualmente estudante de Ciencias da Computação pelo Instituto Federal de São Paulo</h3>
 
 
