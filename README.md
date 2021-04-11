@@ -1,13 +1,15 @@
 <h1 align="center"> Olá :wave:, sou o Henrique</h1>
 
-<h3 align="center">Interessado por Inteligencia Artifical e Redes</h3>
+<h3 align="center">Programador BackEnd focado em PHP , MySQL e JavaScript</h3>
 <h3 align="center">Atualmente estudante de Ciencias da Computação pelo Instituto Federal de São Paulo</h3>
 
 
 ### Interesses 
 
-- IA(Inteligencia Artificial)
-- Redes Neurais
+- Backend
+- Bots
+- Redes
+- Criptografia
 
 
 ### :fire: Hard Skills
@@ -16,13 +18,8 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
-
-
-- Aprendendo 
-
-![Python](https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=ffffff)
-
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
 ### :four_leaf_clover: Soft Skills
 
 - Soft
