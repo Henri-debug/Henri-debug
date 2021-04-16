@@ -1,7 +1,8 @@
 <h1 align="center"> Olá :wave:, sou o Henrique</h1>
 
-<h3 align="center">Programador BackEnd focado em PHP , MySQL e JavaScript</h3>
+<h3 align="center">Programador BackEnd focado em Node JS, MySQL e Express</h3>
 <h3 align="center">Atualmente estudante de Ciencias da Computação pelo Instituto Federal de São Paulo</h3>
+<h3 align="center">Sempre evoluindo e em constante estudo , atualmente focado em Node JS </h3>
 
 
 ### Interesses 
@@ -20,7 +21,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
+![NodeJS](https://img.shields.io/badge/-Node-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ### :four_leaf_clover: Soft Skills
+
+
 
 - Soft
 
