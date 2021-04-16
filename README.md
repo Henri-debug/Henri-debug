@@ -38,7 +38,6 @@
 
 ![VSCode](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-FF9900?style=flat-square&logo=sublime-text&logoColor=ffffff)
-![Intellij IDEA](https://img.shields.io/badge/-Intellij-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=ffffff)
 
 - OS
 
